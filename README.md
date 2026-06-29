@@ -1,1 +1,1 @@
-# semaforo-atomico-nucleico-subzero-automatico-aurudo-nuclear-funcinal-multifuncoes-
+
