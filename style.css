@@ -102,6 +102,25 @@ li{
     padding: 10px;
 
 }
+.i{
+    background-color: burlywood;
+    margin-top: 40px;
+    margin-left: 20%;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 10px 12px 5px rgb(174, 165, 135);
+    text-align: center;
+}
+
+.i h2{
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+.i p{
+    font-size: 30px;
+    line-height: 1.5;
+}
 
 
 
