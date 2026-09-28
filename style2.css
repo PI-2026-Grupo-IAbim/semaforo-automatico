@@ -279,7 +279,6 @@ nav {
     margin-top: 25px;
     margin-bottom: 25px;
     width: 100%;
-    border: 3px solid rgb(190, 160, 110);
 
 }
 
@@ -294,6 +293,8 @@ nav {
     flex-direction: column;
     justify-content: space-between;
     gap: 20px;
+    border: 3px solid rgb(190, 160, 110);
+
 }
 
 .secao-invertida {
