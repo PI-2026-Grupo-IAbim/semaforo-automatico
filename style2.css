@@ -294,7 +294,7 @@ nav {
     gap: 20px;
 }
 
-.secao-invertida .subcaixa {
+.secao-invertida {
     background-color: burlywood;
     border-radius: 20px;
     box-shadow: 5px 5px 5px rgb(174, 165, 135);
@@ -303,7 +303,7 @@ nav {
     box-sizing: border-box;
 }
 
-.secao-invertida .subcaixa h2 {
+.secao-invertida h2 {
     font-size: 30px;
     margin-top: 0;
     margin-bottom: 25px;
@@ -329,12 +329,12 @@ nav {
     text-align: right;
 }
 
-.secao-invertida .subcaixa ul {
+.secao-invertida  ul {
     margin: 0;
     padding-left: 20px;
 }
 
-.secao-invertida .subcaixa li {
+.secao-invertida li {
     margin-bottom: 8px;
     font-size: 18px;
 }
