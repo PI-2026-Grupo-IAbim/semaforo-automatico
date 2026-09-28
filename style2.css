@@ -279,6 +279,8 @@ nav {
     margin-top: 25px;
     margin-bottom: 25px;
     width: 100%;
+    border: 3px solid rgb(190, 160, 110);
+
 }
 
 .secao-invertida .coluna-vertical {
@@ -301,6 +303,7 @@ nav {
     border: 3px solid rgb(190, 160, 110);
     padding: 20px;
     box-sizing: border-box;
+    
 }
 
 .secao-invertida h2 {
@@ -327,16 +330,6 @@ nav {
     font-weight: bold;
     font-size: 16px;
     text-align: right;
-}
-
-.secao-invertida  ul {
-    margin: 0;
-    padding-left: 20px;
-}
-
-.secao-invertida li {
-    margin-bottom: 8px;
-    font-size: 18px;
 }
 
 .secao-invertida .coluna-direita-unica {
@@ -366,6 +359,7 @@ nav {
     border-radius: 15px;
     box-shadow: 5px 5px 5px rgb(174, 165, 135);
     border: 3px solid rgb(190, 160, 110);
+
 }
 
 .secao-invertida .video-container iframe {
@@ -375,4 +369,6 @@ nav {
     width: 100%;
     height: 100%;
     border: 0;
+    border: 3px solid rgb(190, 160, 110);
+
 }
