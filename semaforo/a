@@ -1,1 +1,229 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filosofia Aplicada & Tomada de Decisão</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <nav >
+        <div class="logo"><strong>-ESTOICISMO-</strong></div>
+
+        <div class="caixa-link"><a href="#intro" ><strong>Introdução</strong></a></div>
+        <div class="caixa-link"><a href="#virt"><strong>Virtudes</strong></a></div>
+        <div class="caixa-link"><a href="#vida"><strong>Vida Moderna</strong></a></div>
+        <div class="caixa-link"><a href="#final"><strong>Recomendações</strong></a></div>
+
+    </nav>
+
+    <main >
+        <section class="sec-tipo-01" id="intro">
+            <div class="coluna-esquerda">
+                <div class="aa">
+                    <h2>Introdução ao Estoicismo</h2>
+                    <p>O Estoicismo é uma filosofia de vida prática fundada no início do século III a.C. em Atenas por
+                        Zeno de Cício. Seu nome deriva da Stoa Poikile (Pórtico Pintado), um local público no mercado
+                        ateniense onde os filósofos se reuniam para ensinar e debater.</p>
+                </div>
+
+                <div class="aaa">
+                    <h2 class="section-title">A Dicotomia do Controle</h2>
+                    <p class="section-intro">
+                        O princípio divide tudo o que acontece na vida em duas categorias:</p>
+                    <ul>
+                        <li>O que depende de nós: Nossos pensamentos, atitudes, escolhas, reações e esforço.</li>
+                        <li>O que NÃO depende de nós: A opinião alheia, o resultado final, o passado, o futuro e os
+                            imprevistos da vida.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="aaaa">
+                <p><strong>Epicteto (c. 50 – 135 d.C.):</strong> Nascido escravo no Império Romano, conquistou a
+                    liberdade e tornou-se um dos mais influentes professores estoicos. Focou na liberdade interior e na
+                    disciplina do desejo.</p>
+                <p><strong>Sêneca (c. 4 a.C. – 65 d.C.):</strong> Dramaturgo, político e conselheiro do imperador Nero.
+                    Suas cartas e ensaios exploram a brevidade da vida, a raiva e o uso do tempo.</p>
+                <p><strong>Marco Aurélio (121 – 180 d.C.):</strong> Imperador de Roma. Escreveu seu diário pessoal de
+                    reflexões (hoje publicado como Meditações), praticando a filosofia enquanto liderava o império mais
+                    poderoso de sua época.</p>
+            </div>
+        </section>
+
+        <section class="section">
+            <div>
+                <h2 class="sem2">
+                    Como ajuda na tomada de decisões
+                </h2>
+                <p class="sem">Em vez de gastar energia e ficar ansioso com o que não pode mudar, você foca 100% no seu
+                    próprio esforço e na sua preparação.</p>
+            </div>
+        </section>
+
+        <section id="virt" class="cuadrado">
+            <h2 class="titulo"><span>As Quatro Virtudes Estoicas</span></h2>
+
+            <div class="joia">
+                <h3>Sabedoria (Phronesis):</h3>
+                <p>
+                    A capacidade de navegar por situações complexas de forma lógica e clara. É saber o que é bom, o que
+                    é ruim e o que é indiferente.
+                </p>
+            </div>
+
+            <div class="grid">
+
+                <div class="card-modelo">
+                    <h3>Justiça (Dikaiosyne):</h3>
+                    <p>
+                        O dever moral de agir com bondade, equidade e respeito em relação aos outros seres humanos e à
+                        sociedade.
+                    </p>
+                </div>
+                
+                <div class="card-modelo">
+                    <h3>Coragem (Andreia):</h3>
+                    <p>
+                        Não a ausência de medo, mas a capacidade de agir corretamente e defender a verdade mesmo diante
+                        da adversidade, da dor ou do perigo.
+                    </p>
+                </div>
+
+                <div class="card-modelo">
+                    <h3>Temperança (Sophrosyne): </h3>
+                    <p>
+                        A prática do autocontrole, da moderação e do domínio sobre os desejos e impulsos.
+                    </p>
+                </div>
+
+            </div>
+        </section>
+
+        <section class="aoba" id="vida">
+            <h2 class="titulo"><span>Estoicismo na Vida Moderna</span></h2>
+
+            <div class="linha-intercalada">
+                <div class="caixa-conteudo">
+                    <h3>Estudos & Vida Acadêmica</h3>
+                    <p>
+                        No ambiente de estudos, a ansiedade costuma surgir da preocupação com o resultado final, como a
+                        nota de uma prova ou a aprovação em um processo seletivo. O Estoicismo propõe uma mudança de
+                        foco: concentre sua energia no processo — na disciplina diária, nas horas dedicadas à leitura e
+                        na preparação constante —, pois isso está sob seu total controle. O resultado final, a
+                        dificuldade da prova ou a avaliação do professor não dependem exclusivamente de você. Ao focar
+                        no esforço diário, você reduz o estresse e melhora a retenção de conteúdo.
+                    </p>
+                </div>
+                <div class="caixa-imagem">
+                    <img src="metodos-1250x834.jpg" alt="Estudos e Vida Acadêmica">
+                </div>
+            </div>
+
+            <div class="linha-intercalada">
+                <div class="caixa-imagem">
+                    <img src="Blog-Leo-Luiz-e-Anete.jpg" alt="Trabalho e Carreira">
+                </div>
+                <div class="caixa-conteudo">
+                    <h3>Trabalho & Carreira</h3>
+                    <p>
+                        O ambiente profissional é repleto de imprevistos, metas ousadas, prazos curtos e feedbacks
+                        desafiadores. Aplicar o Estoicismo na carreira significa entender que você não controla as
+                        decisões da empresa, o humor da liderança ou as crises do mercado. Em vez de desperdiçar energia
+                        reclamando de reestruturações ou imprevistos, o profissional estoico foca na sua capacidade de
+                        reação: mantendo o profissionalismo, agindo com ética, buscando soluções práticas e
+                        aperfeiçoando constantemente suas competências técnicas e comportamentais.
+                    </p>
+                </div>
+            </div>
+
+            <div class="linha-intercalada">
+                <div class="caixa-conteudo">
+                    <h3>Redes Sociais & Ansiedade</h3>
+                    <p>
+                        As redes sociais nos expõem constantemente a vidas aparentemente perfeitas e a um ciclo
+                        ininterrupto de notícias e opiniões. Isso gera ansiedade e o desejo de validação externa
+                        (curtidas, comentários e comparações). Os filósofos estoicos nos lembram de que a opinião dos
+                        outros é um fator externo e incontrolável. A verdadeira tranquilidade (*ataraxia*) vem do
+                        cultivo da nossa própria mente e caráter. Filtre o tipo de conteúdo que consome, limite o tempo
+                        de tela e lembre-se de que o seu valor não é medido pelo engajamento digital.
+                    </p>
+                </div>
+                <div class="caixa-imagem">
+                    <img src="1-FOMO.jpg" alt="Redes Sociais e Ansiedade">
+                </div>
+            </div>
+
+            <div class="linha-intercalada">
+                <div class="caixa-imagem">
+                    <img src="images (6).jpg" alt="Conflitos Pessoais e Tomada de Decisão">
+                </div>
+                <div class="caixa-conteudo">
+                    <h3>Conflitos Pessoais & Tomada de Decisões Difíceis</h3>
+                    <p>
+                        Em momentos de desacordo com outras pessoas, o estoico não reage no calor do momento. Ele
+                        entende que não tem o poder de mudar as ações do outro, mas tem pleno domínio sobre a sua
+                        própria resposta. Diante de decisões complexas ou dilemas morais, o Estoicismo serve como uma
+                        bússola através das virtudes cardeais: pergunte a si mesmo se a escolha a ser tomada é justa,
+                        corajosa, sensata e ponderada. Ao alinhar suas decisões à razão e ao interesse coletivo, a
+                        hesitação dá lugar à clareza e à firmeza de propósito.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="secao-invertida" id="final">
+
+            <div class="coluna-vertical">
+                <div class="subcaixa">
+                    <h2>Frases Inspiradoras</h2>
+
+                    <div class="citacao">
+                        <blockquote>"Você tem poder sobre sua mente — não sobre eventos externos. Perceba isso e
+                            encontrará sua força." <strong> — Marco Aurélio</strong></blockquote>
+                    </div>
+
+                    <div class="citacao">
+                        <blockquote>"Não é o que acontece com você, mas como você reage que importa." <strong> —
+                                Epicteto</strong></blockquote>
+                    </div>
+
+                    <div class="citacao">
+                        <blockquote>"Sorte é o que acontece quando a preparação encontra a oportunidade." <strong> —
+                                Sêneca</strong></blockquote>
+
+                    </div>
+                </div>
+
+                <div class="subcaixa">
+                    <h2>Leituras Recomendadas</h2>
+                    <ul>
+                        <li><strong>Meditações</strong> — Marco Aurélio</li>
+                        <li><strong>Cartas de um Estoico</strong> — Sêneca</li>
+                        <li><strong>A Arte de Viver</strong> — Epicteto</li>
+                        <li><strong>O Obstáculo é o Caminho</strong> — Ryan Holiday</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="coluna-direita-unica">
+                <h2>Vídeo Explicativo</h2>
+                <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/scWI-ykd94w?si=5R8mjcE2HZ_1cGgi"
+                        title="O que é o Estoicismo?" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+        </section>
+        <footer>footer aqui porque sim</footer>
+    </main>
+</body>
+
+</html>
