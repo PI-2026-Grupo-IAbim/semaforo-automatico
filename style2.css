@@ -279,6 +279,7 @@ nav {
     margin-top: 25px;
     margin-bottom: 25px;
     width: 100%;
+    border: 3px solid rgb(190, 160, 110);
 
 }
 
@@ -301,10 +302,10 @@ nav {
     background-color: burlywood;
     border-radius: 20px;
     box-shadow: 5px 5px 5px rgb(174, 165, 135);
-    border: 3px solid rgb(190, 160, 110);
     padding: 20px;
     box-sizing: border-box;
-    
+    border: 3px solid rgb(190, 160, 110);
+
 }
 
 .secao-invertida h2 {
